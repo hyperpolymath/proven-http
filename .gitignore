@@ -1,0 +1,37 @@
+# SPDX-License-Identifier: PMPL-1.0-or-later
+
+# Idris2
+build/
+*.ibc
+*.ttc
+.idris2/
+
+# Zig
+zig-cache/
+zig-out/
+*.o
+*.a
+
+# Ada/GNAT
+obj/
+lib/
+*.ali
+*.o
+*.a
+gnatprove/
+.alire/
+config/
+
+# Alire
+alire/
+*.lock
+
+# Editor
+*.swp
+*~
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
