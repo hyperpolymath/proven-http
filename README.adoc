@@ -5,9 +5,15 @@
 :idseparator: -
 
 image:https://img.shields.io/badge/Made%20with-Idris2-blue?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAyMkgyMkwxMiAyWiIgZmlsbD0iIzAwN2VjNiIvPgo8L3N2Zz4K[Made with Idris2,link=https://www.idris-lang.org/]
-image:https://img.shields.io/badge/License-PMPL--1.0--or--later-green.svg[License,link=LICENSE]
+image:https://img.shields.io/badge/License-MPL_2.0-blue.svg[MPL-2.0-or-later,link="https://opensource.org/licenses/MPL-2.0"]
 image:https://img.shields.io/badge/Language-Ada%2FSPARK-blue.svg[Ada/SPARK]
 image:https://img.shields.io/badge/FFI-Zig-orange.svg[Zig FFI]
+
+== License & Philosophy
+
+This project must declare **MPL-2.0-or-later** for platform/tooling compatibility.
+
+Philosophy: **Palimpsest**. The Palimpsest-MPL (PMPL) text is provided in `license/PMPL-1.0.txt`, and the canonical source is the palimpsest-license repository.
 
 **Formally verified HTTP utilities with Ada/SPARK bindings.**
 
